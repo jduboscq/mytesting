@@ -5,3 +5,4 @@ plot(x$x, x$y)
 
 plot(x$x, x$y, main="whoop", las=1)
 
+plot(x$x, x$y, main="whoop", las=1, xlab="x")
